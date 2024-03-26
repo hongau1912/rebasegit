@@ -1,1 +1,12 @@
 commit c1
+
+commit c2
+
+commit c4
+
+commit c44
+commit b1
+
+squash
+
+squash2
